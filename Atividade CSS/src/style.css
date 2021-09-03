@@ -1,0 +1,48 @@
+body
+{
+    background-color: antiquewhite;
+
+}
+
+.post
+{
+    border: 5px solid black;
+    margin-left: 27%;
+    margin-right: 30%;
+    background-color: white;
+}
+
+#Estrutura
+{
+    background-color: white;
+    text-align: center;
+}
+
+li
+{
+    width: 90px;
+    margin-left: 47%;
+}
+
+#OutrasMarc
+{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#Imagens
+{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#Tabelas
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer
+{
+    background-color: rgb(255,222,173);
+}
