@@ -46,3 +46,25 @@ footer
 {
     background-color: rgb(255,222,173);
 }
+
+a:link
+{
+    text-decoration: none;
+    font-size: large;
+    color: #8B4513;
+}
+
+a:visited
+{
+    color: grey;
+}
+
+a:hover
+{
+    font-size: 30px;
+}
+
+a:active
+{
+    color: red;
+}
