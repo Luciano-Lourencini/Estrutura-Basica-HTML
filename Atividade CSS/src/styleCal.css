@@ -1,0 +1,10 @@
+tr:hover
+{
+    color:#0000CD;
+}
+
+td:hover
+{
+    color: green;
+    font-size: 20px;
+}
